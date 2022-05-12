@@ -1,0 +1,16 @@
+release/addinganad.o
+release/authorization.o
+release/chat.o
+release/connector.o
+release/loginedit.o
+release/main.o
+release/mainmenu.o
+release/passwordedit.o
+release/qrc_qrc.o
+release/moc_addinganad.o
+release/moc_authorization.o
+release/moc_chat.o
+release/moc_connector.o
+release/moc_loginedit.o
+release/moc_mainmenu.o
+release/moc_passwordedit.o

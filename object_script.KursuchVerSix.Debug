@@ -1,0 +1,16 @@
+debug/addinganad.o
+debug/authorization.o
+debug/chat.o
+debug/connector.o
+debug/loginedit.o
+debug/main.o
+debug/mainmenu.o
+debug/passwordedit.o
+debug/qrc_qrc.o
+debug/moc_addinganad.o
+debug/moc_authorization.o
+debug/moc_chat.o
+debug/moc_connector.o
+debug/moc_loginedit.o
+debug/moc_mainmenu.o
+debug/moc_passwordedit.o
